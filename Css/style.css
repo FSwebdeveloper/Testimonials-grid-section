@@ -65,6 +65,12 @@ body
   
 }
 
+.bg-pattern
+{
+  position: absolute;
+  margin-left: 350px;
+}
+
 .First-row
 {
   display: flex;
@@ -200,6 +206,11 @@ body
   width: 295px;
   padding:7%;
   
+}
+
+.bg-pattern
+{
+  margin-left: 180px;
 }
 
 }
